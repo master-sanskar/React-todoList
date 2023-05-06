@@ -6,7 +6,7 @@
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 61.5%;
 }
 
 .main-div {
@@ -19,7 +19,7 @@ html {
 
 .child-div {
   text-align: center;
-  margin-top: 12rem;
+  margin-top: 10rem;
 }
 
 .child-div figure img {
